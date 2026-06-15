@@ -13,6 +13,9 @@ This function is a smooth extension of the famous Collatz (3n + 1) problem into 
 ## Application Preview
 
 ![User Interface](output/UI_1.png)
+![Sample View 1](output/collatz_escape_time_z_gt_1e6_20260615_045451.png)
+![Sample View 2](output/collatz_escape_time_z_gt_1e6_20260615_050009.png)
+![Sample View 2](output/collatz_fractal_20260615_044307.png)
 
 ---
 
