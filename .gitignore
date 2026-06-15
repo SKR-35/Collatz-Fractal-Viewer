@@ -46,3 +46,6 @@ output/*
 # Keep screenshots folder structure
 !output/
 !output/UI_1.png
+!output/collatz_escape_time_z_gt_1e6_20260615_045451.png
+!output/collatz_escape_time_z_gt_1e6_20260615_050009.png
+!output/collatz_fractal_20260615_044307.png
