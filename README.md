@@ -10,6 +10,12 @@ This function is a smooth extension of the famous Collatz (3n + 1) problem into 
 
 ---
 
+## Application Preview
+
+![User Interface](output/UI_1.png)
+
+---
+
 ## Features
 
 ### Interactive Navigation
